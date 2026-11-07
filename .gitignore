@@ -1,0 +1,25 @@
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 环境变量与密钥
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
